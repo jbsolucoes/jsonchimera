@@ -6,7 +6,7 @@ For more information on json, please visit http://json.org
 
 Here is a very simple example of how to use Chimera to parse, change and generate JSON.
 
-```
+```pascal
 uses
   chimera.json;
 
